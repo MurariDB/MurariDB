@@ -16,29 +16,29 @@ Currently, I’m building a **full-stack web development project** and strengthe
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-**Programming Languages**
+### Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> C++  
+</p>
 
-* Java
-* Python
-* C++
+### Tools & Version Control
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub
+</p>
 
-**AI / ML & NLP**
+### AI / ML
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Machine Learning &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/> Deep Learning  
+</p>
 
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* Small Language Models (SLMs)
+**Concepts:** LLMs • SLMs • RAG • Cloud Security
 
-**Development & Tools**
-
-* Git & GitHub
-* Full-Stack Web Development (ongoing)
-
-**Other Interests**
-
-* Cloud Security
-* Scalable & Distributed Systems
 
 ---
 
