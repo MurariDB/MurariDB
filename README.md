@@ -2,7 +2,6 @@
 
 🎓 **Computer Science & Engineering Student Graduate**
 💡 **Aspiring Software Engineer | AI/ML Engineer**
-🚀 Actively preparing for **campus placements**
 
 ---
 
