@@ -1,6 +1,6 @@
 # Hi, I'm Murari 👋
 
-🎓 **Final-Year Computer Science & Engineering Student**
+🎓 **Computer Science & Engineering Student Graduate**
 💡 **Aspiring Software Engineer | AI/ML Engineer**
 🚀 Actively preparing for **campus placements**
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a final-year CSE undergraduate passionate about building **efficient, scalable software** and applying **AI/ML techniques** to solve real-world problems. I enjoy working across the stack—from backend logic to intelligent systems powered by modern language models.
+I’m a CSE undergraduate passionate about building **efficient, scalable software** and applying **AI/ML techniques** to solve real-world problems. I enjoy working across the stack—from backend logic to intelligent systems powered by modern language models.
 
 I have hands-on experience in **Java, Python, and C++**, and I’ve worked with **Retrieval-Augmented Generation (RAG)** pipelines while exploring **LLMs and SLMs**.
 
